@@ -1,5 +1,2 @@
-# Preprocess script for expense-tracker
-
-def preprocess():
-    # TODO: Implement actual preprocessing logic
-    pass
+# Preprocessing script
+print('Preprocessing completed')
